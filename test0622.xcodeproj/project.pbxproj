@@ -27,7 +27,7 @@
 		C92E18A11EFB57F600DCFA09 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		C92E18A91EFB5AE600DCFA09 /* test.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = test.txt; path = ../test.txt; sourceTree = "<group>"; };
 		C92E18AA1EFB5B5F00DCFA09 /* File.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
-		C92E18AB1EFB5BD000DCFA09 /* File.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = File.txt; path = ../File.txt; sourceTree = "<group>"; };
+		C92E18AC1EFB5D3900DCFA09 /* File.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = File.txt; path = ../File.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +44,7 @@
 		C92E18951EFB57F600DCFA09 = {
 			isa = PBXGroup;
 			children = (
-				C92E18AB1EFB5BD000DCFA09 /* File.txt */,
+				C92E18AC1EFB5D3900DCFA09 /* File.txt */,
 				C92E18AA1EFB5B5F00DCFA09 /* File.txt */,
 				C92E18A91EFB5AE600DCFA09 /* test.txt */,
 				C92E18A01EFB57F600DCFA09 /* test0622 */,
